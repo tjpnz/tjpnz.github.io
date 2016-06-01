@@ -2,7 +2,6 @@
 layout: post
 title:  "The Ministry of Health's iFail"
 date:   2013-10-14
-categories: government health mobile rants
 ---
 
 In New Zealand we have a government run health service known as [Health Line](http://www.health.govt.nz/your-health/services-and-support/health-care-services/healthline). The idea behind Health Line is that if you're feeling a bit crook you give them a call and you'll then be guided through a list of questions by a registered nurse. Based on your symptoms they'll then advise you whether you should treat yourself at home or seek medical advise. It's a useful service and benefits both you and the public health service by reducing unnecessary doctors visits and hospital admissions.
